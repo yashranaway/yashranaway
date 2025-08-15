@@ -1,4 +1,9 @@
-[![Discord Presence](https://lanyard.kyrie25.dev/api/753887161060818955?animated=false&hideNameplate=false&showDisplayName=true)](https://discord.com/users/753887161060818955)
+<p align="center">
+  <a href="https://discord.com/users/753887161060818955">
+    <img src="https://lanyard.cnrad.dev/api/753887161060818955?theme=dark" alt="Discord Presence"/>
+  </a>
+</p>
+
 
 ## Info -
 
