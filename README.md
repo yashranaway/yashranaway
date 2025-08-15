@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/753887161060818955"><img src="https://lanyard.kyrie25.dev/api/753887161060818955?animated=false&hideNameplate=false&showDisplayName=true" /></a>
+[![Discord Presence](https://lanyard.kyrie25.dev/api/753887161060818955?animated=false&hideNameplate=false&showDisplayName=true)](https://discord.com/users/753887161060818955)
 
 ## Info -
 
