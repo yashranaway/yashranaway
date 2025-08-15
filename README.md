@@ -48,4 +48,4 @@ AdityaGarud = {
 ---
 
 ### Auto-generated Metrics:
-![Metrics](https://github.com/yashranaway/yashranaway/blob/main/github-metrics.svg)
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
