@@ -5,9 +5,15 @@ on:
 
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: read
+    concurrency:
+      group: metrics-${{ github.ref }}
+      cancel-in-progress: true
+    timeout-minutes: 15
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
