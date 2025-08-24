@@ -7,7 +7,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-22.04
     permissions:
-      contents: read
+      contents: write
     concurrency:
       group: metrics-${{ github.ref }}
       cancel-in-progress: true
@@ -17,3 +17,7 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore(metrics): update github-metrics.svg"
+          user: ${{ github.repository_owner }}
