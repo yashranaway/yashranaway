@@ -49,3 +49,5 @@ i like technology and Machine Learning, cool stuff
 ### Specialized Skills
 [![Specialized](https://skillicons.dev/icons?i=arduino,raspberrypi,discordjs)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Discord.py"/>
+
+[![An image of @yashranaway's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashranaway)](https://holopin.io/@yashranaway)
