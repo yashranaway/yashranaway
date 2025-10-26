@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            359 Commits
+                            360 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.58673760636202" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="208.58673760636202" y="0" width="66.28201674790257" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="274.8687543542646" y="0" width="60.43329315776677" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="335.3020475120314" y="0" width="54.89810938895781" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="390.2001569009892" y="0" width="23.39655250382913" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="413.59670940481834" y="0" width="21.815286770310454" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="435.4119961751288" y="0" width="14.672156235110299" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="450.08415241023914" y="0" width="9.915847589760931" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.62232383738342" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="208.62232383738342" y="0" width="66.27263487545044" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="274.8949587128339" y="0" width="60.4247391415179" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="335.3196978543518" y="0" width="54.89033884899205" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="390.2100367033438" y="0" width="23.39324084431452" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="413.60327754765837" y="0" width="21.812198930681728" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="435.4154764783401" y="0" width="14.670079468211078" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="450.08555594655115" y="0" width="9.914444053448875" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -239,7 +239,7 @@
                             </div>
                             <small>
                                 <div>1.38 MB</div>
-                                <div>45.34%</div>
+                                <div>45.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1378,7 +1378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dodopayments/billingsdk</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern Billing &amp; Monetization UI Components Library</div>
@@ -1465,7 +1465,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        7.52k
+                                        7.53k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1605,7 +1605,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Oct 2025, 11:49:01 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Oct 2025, 17:54:32 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
