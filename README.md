@@ -52,6 +52,3 @@ i like technology and Machine Learning, cool stuff
 
 [![An image of @yashranaway's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashranaway)](https://holopin.io/@yashranaway)
 
-
-
-is this correct?
