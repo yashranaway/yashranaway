@@ -49,21 +49,21 @@ jobs:
             -e WHITELIST=yashranaway \
             ghcr.io/utkuozdemir/github-readme-stats-selfhosted:latest
 
-          # Wait for the server to be ready
+          # Wait for the server to be ready (up to 3 minutes)
           echo "Waiting for server to start..."
           SERVER_READY=false
-          for i in {1..30}; do
+          for i in {1..90}; do
             if curl -sf http://localhost:9000/api?username=yashranaway > /dev/null 2>&1; then
               echo "Server is ready!"
               SERVER_READY=true
               break
             fi
-            echo "Waiting... ($i/30)"
+            echo "Waiting... ($i/90)"
             sleep 2
           done
 
           if [ "$SERVER_READY" = false ]; then
-            echo "ERROR: Server failed to start within 60 seconds"
+            echo "ERROR: Server failed to start within 3 minutes"
             echo "Container logs:"
             docker logs readme-stats
             exit 1
