@@ -38,7 +38,7 @@ i like technology and Machine Learning, cool stuff
 ## 🧰 Technical Arsenal
 
 ### Programming Languages
-[![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,go,rust)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,go,rust,ruby)](https://skillicons.dev)
 
 ### Frontend Development
 [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,nextjs)](https://skillicons.dev)
