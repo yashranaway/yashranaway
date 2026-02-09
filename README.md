@@ -11,8 +11,15 @@ i like technology and Machine Learning, cool stuff
 <br>
 
 <p align="center">
-    <img align="center" src="./assets/github-stats/stats.svg"/>
-    <img align="center" height="195px" src="./assets/github-stats/top-langs.svg" />
+    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg"/>
+</p>
+<p align="center">
+    <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+    <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+</p>
+<p align="center">
+    <img src="./profile-summary-card-output/github_dark/3-stats.svg"/>
+    <img src="./profile-summary-card-output/github_dark/4-productive-time.svg"/>
 </p>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
