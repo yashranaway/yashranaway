@@ -59,3 +59,8 @@ i like technology and Machine Learning, cool stuff
 
 [![An image of @yashranaway's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashranaway)](https://holopin.io/@yashranaway)
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashranaway&style=flat-square&color=94b4a4&label=Profile+Views" alt="Profile Views"/>
+</p>
