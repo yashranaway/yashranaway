@@ -2,38 +2,15 @@
 
 i like technology and Machine Learning, cool stuff
 
+
 <div align="center">
-
-<p align="center">
-    
-</p>
-
-<br>
-
-<p align="center">
-    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg"/>
-</p>
-<p align="center">
-    <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
-    <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
-</p>
-<p align="center">
-    <img src="./profile-summary-card-output/github_dark/3-stats.svg"/>
-    <img src="./profile-summary-card-output/github_dark/4-productive-time.svg"/>
-</p>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="yashranaway's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yashranaway&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=true" />
-</a>
-
+  <a href="https://commit-history.com/yashranaway">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/yashranaway?theme=dark" />
+      <img alt="yashranaway's commit history" src="https://commit-history.com/embed/yashranaway" />
+    </picture>
+  </a>
 </div>
-
-
-<p align="center">
-   <a href="https://discord.com/users/753887161060818955">
-      <img src="https://lanyard.cnrad.dev/api/753887161060818955?theme=dark&animated=true&hideTimestamp=true" />
-   </a>
-</p>
 
 ## 🧰 Technical Arsenal
 
