@@ -13,8 +13,8 @@ i like technology and Machine Learning, cool stuff
 </div>
 
 <p align="center">
-  <a href="https://aditya-garud.me/">
-    <img src="https://img.shields.io/badge/Portfolio-aditya--garud.me-94b4a4?style=flat-square" alt="Portfolio" />
+  <a href="https://adityagarud.com/">
+    <img src="https://img.shields.io/badge/Portfolio-adityagarud.com-94b4a4?style=flat-square" alt="Portfolio" />
   </a>
 </p>
 
